@@ -27,4 +27,4 @@ After running simulation, run `CASESTUDY_simulation_data_postprocess.ipynb` to p
 ### Sensitivity analysis source code
 The directory `./SensitivityAnalysis` contains the programs for analyzing long-term fairness. Each case study has one corresponding folder for analysis under `./SensitivityAnalysis` directory.
 
-To get the analysis result, please run the jupyter notebook in the subfolder for each case study.
+To get the analysis result, please run the jupyter notebook in the subfolder for each case study. The results shown in the paper can be found in these notebooks.
